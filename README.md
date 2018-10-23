@@ -1,6 +1,6 @@
 ## My-Personal-Profile-Page
 ###### TechDegree-Project-1
 
-Customized a personal online profile by adding graphics, customizing text, 
-and improving the look of a web page using Cascading Style Sheets, 
-the formatting language of the web.
+Modified the code in order to improve the look of this personal online profile by adding graphics, text, sylish design using CSS & HTML.
+
+This web page can be used as a personal online calling card to advertise experience, skills, and goals, and to provide links to social media accounts such as Twitter, LinkedIn and GitHub.
