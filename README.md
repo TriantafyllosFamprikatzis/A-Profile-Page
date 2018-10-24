@@ -1,4 +1,4 @@
-## My-Personal-Profile-Page
+## A-Profile-Page
 ###### TechDegree-Project-1
 
 Modified the code in order to improve the look of this personal online profile by adding graphics, text, stylish design using CSS & HTML.
